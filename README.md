@@ -9,6 +9,8 @@ A [SillyTavern](https://github.com/SillyTavern/SillyTavern) extension that remov
 - Remembers your choices between sessions.
 - Leaves any non-avatar crop popups untouched.
 
+<img width="501" height="905" alt="image" src="https://github.com/user-attachments/assets/fef97aa0-97f6-49fc-9d60-f825b4d4121f" />
+
 ## Installation
 
 ### From inside SillyTavern (recommended)
